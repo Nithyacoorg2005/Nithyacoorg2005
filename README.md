@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nithyashree 👋</h1>
 
 <p align="center">
-  <b>AI Systems Engineer | Multi-Agent Systems | Backend</b>
+  <b> Multi-Agent Systems | Backend</b>
 </p>
 
 ---
