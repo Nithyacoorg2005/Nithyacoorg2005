@@ -32,7 +32,7 @@
 
 
 
-### 🚀 Engineering Impact & GitHub Insights
+###  Engineering Impact & GitHub Insights
 
 <p align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Nithyacoorg2005&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
