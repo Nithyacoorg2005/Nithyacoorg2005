@@ -30,16 +30,7 @@
 
 ---
 
-### 🛠 Technical Portfolio
 
-| Project | Core Stack | Purpose |
-| :--- | :--- | :--- |
-| **[SynForge](https://github.com/Nithyacoorg2005/SynForge)** | Python, LangGraph | Multi-agent synthetic data orchestration. |
-| **[AlphaSignal AI](https://github.com/Nithyacoorg2005/AlphaSignal-AI)** | FastAPI, Redis | Real-time multi-agent investment analysis. |
-| **[GuardianMesh](https://github.com/Nithyacoorg2005/GuardianMesh)** | Python, IoT | Autonomous mobility safety intelligence. |
-| **[AquaSentinel](https://github.com/Nithyacoorg2005/AquaSentinel)** | ML, TypeScript | Flood prediction system for Bengaluru. |
-
----
 
 ### 🚀 Engineering Impact & GitHub Insights
 
