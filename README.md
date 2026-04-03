@@ -30,13 +30,35 @@
 
 ---
 
-### Featured Work & GitHub Insights
+---
+
+### 🚀 Engineering Impact & GitHub Insights
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nithyacoorg2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithyacoorg2005&layout=compact&theme=tokyonight&hide_langs=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nithyacoorg2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Nithyashree's GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithyacoorg2005&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Languages" />
 </p>
 
+---
+
+### 📂 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/Nithyacoorg2005/SynForge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithyacoorg2005&repo=SynForge&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Nithyacoorg2005/AlphaSignal-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithyacoorg2005&repo=AlphaSignal-AI&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+### 📈 Contribution Momentum
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithyacoorg2005&theme=tokyonight&hide_border=true" width="100%" />
+</p>
 ---
 
 ###  Currently Engineering
