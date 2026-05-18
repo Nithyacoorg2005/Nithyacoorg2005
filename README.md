@@ -2,83 +2,163 @@
 
 # Nithyashree CS
 
-**Multi-Agent Systems Engineer · Scalable Backend Architect**
+### Multi-Agent Systems Engineer • Backend Architect • AI Infrastructure Builder
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nithya-s-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithyashreecoorg-cs-82b1b02b1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<p>
+I engineer scalable AI systems, distributed backends, and production-grade multi-agent workflows.
+</p>
+
+<p>
+<a href="https://nithya-s-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/nithyashreecoorg-cs-82b1b02b1">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# About Me
 
-I build intelligent, scalable systems at the intersection of **AI** and **Backend Engineering** — from multi-agent orchestration pipelines to high-performance distributed APIs. I'm passionate about turning complex AI workflows into reliable production-grade software.
+I build intelligent backend systems that combine:
 
-- 🤖 Designing **Multi-Agent Systems** with LangGraph & CrewAI
-- ⚡ Architecting **high-throughput APIs** with FastAPI & Go
-- 🗄️ Working with **Vector Databases** (Pinecone, Milvus) for semantic search
-- 🐍 Recently completed **Flask** — adding it to my backend toolkit!
+- Multi-agent orchestration
+- AI reasoning pipelines
+- High-performance APIs
+- Semantic retrieval systems
+- Distributed infrastructure
 
----
+My focus is turning complex AI workflows into scalable, production-ready software systems.
 
-## 🛠️ Tech Stack
-
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | Python · TypeScript · JavaScript · SQL |
-| **AI / ML** | LangChain · LangGraph · CrewAI · OpenAI API · HuggingFace · PyTorch |
-| **Backend** | Flask · FastAPI · Node.js · PostgreSQL · Redis · GraphQL |
-| **DevOps** | Docker · AWS · GitHub Actions · Linux |
-| **Vector DBs** | Pinecone · Milvus |
+Currently exploring:
+- Stateful agent orchestration with LangGraph
+- High-concurrency systems using Go
+- Distributed infrastructure & orchestration
+- AI-native backend architecture
 
 ---
 
-## 🔍 Focus & Expertise
+# Core Expertise
 
+```yaml
+AI Systems:
+  - Multi-Agent Architectures
+  - Agent Routing & Orchestration
+  - RAG Pipelines
+  - Synthetic Data Systems
+  - Semantic Search
+
+Backend Engineering:
+  - FastAPI
+  - Flask
+  - REST APIs
+  - Distributed Systems
+  - Async Architectures
+  - Real-time Pipelines
+
+Infrastructure:
+  - Docker
+  - AWS
+  - Linux
+  - GitHub Actions
+  - Containerized Deployments
+
+Databases:
+  - PostgreSQL
+  - Redis
+  - Pinecone
+  - Milvus
 ```
-🧠  Intelligence    →  Multi-Agent Orchestration · Synthetic Data Generation · AI Decision Engines
-⚙️  Backend        →  Distributed Systems · High-Performance APIs · Real-time Data Pipelines
-🏗️  Infrastructure →  Containerization (Docker) · Orchestration · Vector Databases
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## AI / ML
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B00?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+## Backend & Infra
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+---
+
+# Engineering Focus
+
+```text
+Designing systems that:
+- Think intelligently
+- Scale horizontally
+- Remain observable
+- Recover gracefully
+- Survive production load
 ```
 
 ---
 
-## 📊 GitHub Insights
+# GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nithyacoorg2005&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithyacoorg2005&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" alt="Top Languages" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nithyacoorg2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithyacoorg2005&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Activity
+# Current Learning Roadmap
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nithyacoorg2005&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🚀 Current Learning Path
-
-- [x] Flask — REST APIs, routing, Blueprints
-- [ ] Advanced LangGraph — stateful multi-agent flows
-- [ ] Go — high-concurrency microservices
-- [ ] Kubernetes — container orchestration at scale
+- [x] Flask & API Architecture
+- [x] Docker Fundamentals
+- [ ] Advanced LangGraph Stateful Systems
+- [ ] Go for High-Concurrency Services
+- [ ] Kubernetes & Orchestration
+- [ ] Distributed Messaging Systems
 
 ---
 
+# Philosophy
+
+```text
+Build systems that think clearly,
+scale reliably,
+and fail gracefully.
+```
+
+---
+
 <div align="center">
 
-*"Build systems that think, scale, and endure."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nithyacoorg2005&label=Profile%20Views&color=0e75b6&style=flat)
+<img src="https://komarev.com/ghpvc/?username=Nithyacoorg2005&style=flat-square&color=blue" />
 
 </div>
