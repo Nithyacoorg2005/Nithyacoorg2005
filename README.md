@@ -140,17 +140,3 @@ Building software that remains reliable under:
 
 ---
 
-## Philosophy
-
-Build boring systems.
-
-Make them fast.
-
-Make them observable.
-
-Make them difficult to break.
-
-Then automate everything.
-
----
-
