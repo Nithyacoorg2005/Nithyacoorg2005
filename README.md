@@ -154,28 +154,3 @@ Then automate everything.
 
 ---
 
-## Pinned Repositories
-
-⭐ Ledgrr
-
-Financial infrastructure for AI billing.
-
-⭐ SwiftLnk
-
-Sub-2ms URL infrastructure.
-
-⭐ SynForge
-
-Privacy-preserving synthetic data engine.
-
-⭐ BettadaJeeva
-
-Production travel platform.
-
-⭐ AuriCheck.ai
-
-AI-powered diagnostic platform.
-
-⭐ Future flagship project
-
-Something difficult.
