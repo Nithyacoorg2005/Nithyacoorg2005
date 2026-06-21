@@ -1,10 +1,26 @@
+<div align="center">
+
 # Nithyashree CS
+
+### Building systems where correctness matters.
 
 Backend Engineer • Distributed Systems • Open Source
 
-I build backend systems, developer infrastructure, and AI-powered applications that prioritize correctness, scalability, and reliability.
+Bengaluru, India
 
-Currently focused on:
+<a href="https://linkedin.com/in/nithyashreecoorg-cs-82b1b02b1">LinkedIn</a> •
+<a href="mailto:nithyacs669@gmail.com">Email</a> •
+<a href="https://github.com/Nithyacoorg2005">GitHub</a>
+
+</div>
+
+---
+
+## About
+
+I build backend systems, developer infrastructure, and AI-powered applications that prioritize correctness, scalability, and long-term reliability.
+
+My interests revolve around:
 
 - Distributed Systems
 - Financial Infrastructure
@@ -14,21 +30,19 @@ Currently focused on:
 
 ---
 
-## Selected Work
+## Building
 
 ### Ledgrr
 
-Open-source financial infrastructure SDK for AI billing.
-
-Features:
+Open-source financial infrastructure SDK for AI inference billing.
 
 - Immutable ledger architecture
+- Deterministic replay semantics
 - GST-compliant invoice generation
 - Multi-provider LLM accounting
 - Idempotent event processing
-- Deterministic replay semantics
 
-Tech:
+**Stack**
 
 `Python` `PostgreSQL` `SQLite`
 
@@ -38,17 +52,15 @@ Tech:
 
 ### SwiftLnk
 
-High-performance URL shortener infrastructure.
+High-performance URL infrastructure.
 
-Features:
-
-- Redis cache-aside strategy
-- Sub-2ms P99 redirects
+- Sub-2ms P99 redirect latency
+- Redis cache-aside architecture
 - Base62 ID generation
 - Rate limiting
-- Request tracing
+- Structured request tracing
 
-Tech:
+**Stack**
 
 `FastAPI` `Redis` `PostgreSQL` `Docker`
 
@@ -60,14 +72,12 @@ Tech:
 
 Privacy-preserving synthetic data generation engine.
 
-Features:
-
 - Differential Privacy
-- Configurable epsilon budgets
+- Configurable privacy budgets
 - Membership inference protection
 - Async generation pipelines
 
-Tech:
+**Stack**
 
 `FastAPI` `PyTorch`
 
@@ -75,32 +85,17 @@ Tech:
 
 ---
 
-## Experience
+## Tech
 
-**Software Engineering Intern**
-
-BettadaJeeva
-
-- Built backend and frontend systems end-to-end
-- Google OAuth 2.0 authentication
-- WhatsApp API integrations
-- Instagram API integrations
-- PostgreSQL optimization
-- CI/CD automation
-
----
-
-## Technologies
-
-Languages
+### Languages
 
 `Python`
-`C++`
 `TypeScript`
 `JavaScript`
+`C++`
 `SQL`
 
-Backend
+### Backend
 
 `FastAPI`
 `Node.js`
@@ -109,48 +104,78 @@ Backend
 `gRPC`
 `WebSockets`
 
-Infrastructure
+### Databases
 
 `PostgreSQL`
 `Redis`
+`MongoDB`
+`Supabase`
+
+### Infrastructure
+
 `Docker`
 `GitHub Actions`
 `Cloudflare R2`
-`Supabase`
-
-Cloud
-
 `AWS`
-`Oracle Cloud`
 `Vercel`
 
-AI
+### AI
 
 `LangGraph`
 `LangChain`
 `PyTorch`
-`Scikit-learn`
+`scikit-learn`
 
 ---
 
-## Achievements
+## Current Focus
 
-- LeetCode Top 10% Globally
-- 400+ problems solved
-- 3rd Place — IIM Bodh Gaya Case Competition
+Building software that remains reliable under:
+
+- Concurrency
+- High traffic
+- Retries
+- Failures
+- Distributed workloads
 
 ---
 
-## Connect
+## Philosophy
 
-LinkedIn
+Build boring systems.
 
-https://linkedin.com/in/nithyashreecoorg-cs-82b1b02b1
+Make them fast.
 
-Portfolio
+Make them observable.
 
-https://your-portfolio-url.com
+Make them difficult to break.
 
-Email
+Then automate everything.
 
-nithyacs669@gmail.com
+---
+
+## Pinned Repositories
+
+⭐ Ledgrr
+
+Financial infrastructure for AI billing.
+
+⭐ SwiftLnk
+
+Sub-2ms URL infrastructure.
+
+⭐ SynForge
+
+Privacy-preserving synthetic data engine.
+
+⭐ BettadaJeeva
+
+Production travel platform.
+
+⭐ AuriCheck.ai
+
+AI-powered diagnostic platform.
+
+⭐ Future flagship project
+
+Something difficult.
