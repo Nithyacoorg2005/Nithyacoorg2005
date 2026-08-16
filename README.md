@@ -2,45 +2,58 @@
 
 # Nithyashree CS
 
-### Building systems where correctness matters.
-
-**Backend Engineer · Distributed Systems · Open Source**
+`backend` · `systems` · `ai`
 
 Bengaluru, India
 
-[LinkedIn](https://linkedin.com/in/nithyashreecoorg-cs-82b1b02b1) ·
-[Email](mailto:nithyacs669@gmail.com) ·
-[GitHub](https://github.com/Nithyacoorg2005)
+[LinkedIn](https://linkedin.com/in/nithyashreecoorg-cs-82b1b02b1) · [Email](mailto:nithyacs669@gmail.com) · [GitHub](https://github.com/Nithyacoorg2005)
 
 </div>
 
 ---
 
-## About
+###  ABOUT
 
-I build backend systems and infrastructure with a focus on **correctness, performance, and reliability**.
+I build software systems.
 
-Interested in:
+Mostly interested in what happens underneath the interface:
 
-`Distributed Systems` · `Backend Engineering` · `AI Infrastructure` · `Developer Tools`
+`databases` · `distributed systems` · `infrastructure` · `ai`
+
+I prefer systems that are:
+
+**fast · deterministic · observable · difficult to break**
 
 ---
 
-## Currently
+###  STACK
 
-Building systems that stay reliable under:
+```text
+Python       TypeScript       C++
+FastAPI      Node.js          PostgreSQL
+Redis        Docker           Linux
+PyTorch      LangGraph        AWS
+```
 
-* concurrency
-* retries
-* failures
-* scale
+---
 
-Learning how distributed systems break — and how to make them not.
+### INTERESTS
+
+```text
+distributed systems
+database internals
+backend architecture
+financial infrastructure
+AI systems
+developer tooling
+open source
+```
+
 
 ---
 
 <div align="center">
 
-**Less abstraction. More engineering.**
+`404: excuses not found`
 
 </div>
