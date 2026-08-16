@@ -6,7 +6,7 @@
 
 Bengaluru, India
 
-[LinkedIn](https://linkedin.com/in/nithyashreecoorg-cs-82b1b02b1) · [Email](mailto:nithyacs669@gmail.com) · [GitHub](https://github.com/Nithyacoorg2005)
+
 
 </div>
 
