@@ -4,13 +4,13 @@
 
 ### Building systems where correctness matters.
 
-Backend Engineer • Distributed Systems • Open Source
+**Backend Engineer · Distributed Systems · Open Source**
 
 Bengaluru, India
 
-<a href="https://linkedin.com/in/nithyashreecoorg-cs-82b1b02b1">LinkedIn</a> •
-<a href="mailto:nithyacs669@gmail.com">Email</a> •
-<a href="https://github.com/Nithyacoorg2005">GitHub</a>
+[LinkedIn](https://linkedin.com/in/nithyashreecoorg-cs-82b1b02b1) ·
+[Email](mailto:nithyacs669@gmail.com) ·
+[GitHub](https://github.com/Nithyacoorg2005)
 
 </div>
 
@@ -18,125 +18,29 @@ Bengaluru, India
 
 ## About
 
-I build backend systems, developer infrastructure, and AI-powered applications that prioritize correctness, scalability, and long-term reliability.
+I build backend systems and infrastructure with a focus on **correctness, performance, and reliability**.
 
-My interests revolve around:
+Interested in:
 
-- Distributed Systems
-- Financial Infrastructure
-- AI Engineering
-- Developer Tooling
-- Open Source
+`Distributed Systems` · `Backend Engineering` · `AI Infrastructure` · `Developer Tools`
 
 ---
 
-## Building
+## Currently
 
-### Ledgrr
+Building systems that stay reliable under:
 
-Open-source financial infrastructure SDK for AI inference billing.
+* concurrency
+* retries
+* failures
+* scale
 
-- Immutable ledger architecture
-- Deterministic replay semantics
-- GST-compliant invoice generation
-- Multi-provider LLM accounting
-- Idempotent event processing
-
-**Stack**
-
-`Python` `PostgreSQL` `SQLite`
-
-→ https://pypi.org/project/ledgrr/
+Learning how distributed systems break — and how to make them not.
 
 ---
 
-### SwiftLnk
+<div align="center">
 
-High-performance URL infrastructure.
+**Less abstraction. More engineering.**
 
-- Sub-2ms P99 redirect latency
-- Redis cache-aside architecture
-- Base62 ID generation
-- Rate limiting
-- Structured request tracing
-
-**Stack**
-
-`FastAPI` `Redis` `PostgreSQL` `Docker`
-
-→ https://github.com/Nithyacoorg2005/SwiftLnk
-
----
-
-### SynForge
-
-Privacy-preserving synthetic data generation engine.
-
-- Differential Privacy
-- Configurable privacy budgets
-- Membership inference protection
-- Async generation pipelines
-
-**Stack**
-
-`FastAPI` `PyTorch`
-
-→ https://github.com/Nithyacoorg2005/Synforge
-
----
-
-## Tech
-
-### Languages
-
-`Python`
-`TypeScript`
-`JavaScript`
-`C++`
-`SQL`
-
-### Backend
-
-`FastAPI`
-`Node.js`
-`REST APIs`
-`GraphQL`
-`gRPC`
-`WebSockets`
-
-### Databases
-
-`PostgreSQL`
-`Redis`
-`MongoDB`
-`Supabase`
-
-### Infrastructure
-
-`Docker`
-`GitHub Actions`
-`Cloudflare R2`
-`AWS`
-`Vercel`
-
-### AI
-
-`LangGraph`
-`LangChain`
-`PyTorch`
-`scikit-learn`
-
----
-
-## Current Focus
-
-Building software that remains reliable under:
-
-- Concurrency
-- High traffic
-- Retries
-- Failures
-- Distributed workloads
-
----
-
+</div>
