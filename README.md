@@ -50,10 +50,5 @@ open source
 ```
 
 
----
-
-<div align="center">
-
-`404: excuses not found`
 
 </div>
