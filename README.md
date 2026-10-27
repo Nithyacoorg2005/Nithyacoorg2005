@@ -1,85 +1,55 @@
 <div align="center">
 
-<br>
+# Nithyashree CS
 
-```
-┌──────────────────────────────────────────────────────┐
-│ ┌──────────────────────────────────────────────────┐ │
-│ │                                                  │ │
-│ │                                                  │ │
-│ │                  NITHYASHREE CS                  │ │
-│ │                                                  │ │
-│ │              ────────  ✦  ────────              │ │
-│ │                                                  │ │
-│ │        NOTES ON BACKEND SYSTEMS, DATABASES       │ │
-│ │              & THE MACHINES BENEATH              │ │
-│ │                                                  │ │
-│ │                                                  │ │
-│ │                 Bengaluru · MMXXVI               │ │
-│ │                                                  │ │
-│ └──────────────────────────────────────────────────┘ │
-└──────────────────────────────────────────────────────┘
-```
+`backend` · `systems` · `ai`
+
+Bengaluru, India
+
+
 
 </div>
 
-<br>
+---
 
-```
-CONTENTS
+###  ABOUT
 
-  I.    Preface ............................................. 1
-  II.   Instruments ......................................... 2
-  III.  Studies ............................................. 3
-  IV.   Correspondence ...................................... 4
-```
+I build software systems.
 
-<br>
+Mostly interested in what happens underneath the interface:
 
-### I. &nbsp; PREFACE
+`databases` · `distributed systems` · `infrastructure` · `ai`
 
-I like the part of software that sits below the screen: the database, the queue, the machine that keeps working when nobody is looking.
+I prefer systems that are:
 
-I want systems to be quick, to behave the same way every time, and to say what they are doing when they don't.
+**fast · deterministic · observable · difficult to break**
 
-<br>
+---
 
-### II. &nbsp; INSTRUMENTS
+###  STACK
 
-```
-  Languages ........ Python · TypeScript · C++
-  Services ......... FastAPI · Node.js
-  Storage .......... PostgreSQL · Redis
-  Foundations ...... Linux · Docker · AWS
-  Machine work ..... PyTorch · LangGraph
+```text
+Python       TypeScript       C++
+FastAPI      Node.js          PostgreSQL
+Redis        Docker           Linux
+PyTorch      LangGraph        AWS
 ```
 
-<br>
+---
 
-### III. &nbsp; STUDIES
+### INTERESTS
 
-```
-  i.    How databases store and find things
-  ii.   Why distributed systems fail the way they do
-  iii.  Architecture that holds up under real traffic
-  iv.   How money moves through software
-  v.    AI systems that do actual work
-  vi.   Tools that make other developers faster
-```
-
-<br>
-
-### IV. &nbsp; CORRESPONDENCE
-
-```
-  mail ............. you@example.com
-  github ........... github.com/yourusername
+```text
+distributed systems
+database internals
+backend architecture
+financial infrastructure
+AI systems
+developer tooling
+open source
 ```
 
-<br>
 
-<div align="center">
-
-<sub>✦ &nbsp; FINIS &nbsp; ✦</sub>
 
 </div>
+this readme kinda boring make it more better less feels like ai make it vintage feels
