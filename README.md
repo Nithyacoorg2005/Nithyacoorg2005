@@ -52,4 +52,3 @@ open source
 
 
 </div>
-this readme kinda boring make it more better less feels like ai make it vintage feels
