@@ -13,7 +13,7 @@
 
 ---
 
-## ☁️ At the surface: who I am
+## At the surface: who I am
 
 ```yaml
 name:        Nithyashree CS
@@ -27,43 +27,37 @@ principles:  [fast, deterministic, observable, hard to break]
 status:      open to backend / infra roles and open-source work
 ```
 
----
-
-## What I'm building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Ledgrr
-**Open-source Python SDK for LLM cost tracking, built for Indian AI teams.**
-
-Answers one question: *where is our LLM budget actually going?*
-
-`Python` `PyPI` `Open Source`
-
-[Repository →](https://github.com/Nithyacoorg2005/Ledgrr)
-
-</td>
-<td width="50%" valign="top">
-
-### BettadaJeeva
-**Internship: designed and built the entire backend and frontend solo.**
-
-No team to hand off to. Architecture, API, UI, and deployment were all mine.
-
-`TypeScript` `Node.js`
-
-</td>
-</tr>
-</table>
-
----
 
 ## Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,cpp,fastapi,nodejs,postgres,redis,docker,linux,pytorch,aws&perline=11" alt="stack"/>
+  <b>Languages</b><br>
+  <img src="https://skillicons.dev/icons?i=py,ts,cpp&perline=3" alt="languages"/>
+</p>
+
+<p align="center">
+  <b>Backend and frontend</b><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react&perline=3" alt="backend"/>
+</p>
+
+<p align="center">
+  <b>Data</b><br>
+  <img src="https://skillicons.dev/icons?i=postgres,redis&perline=2" alt="data"/>
+</p>
+
+<p align="center">
+  <b>Infra and deployment</b><br>
+  <img src="https://skillicons.dev/icons?i=docker,linux,aws,vercel&perline=4" alt="infra"/>
+</p>
+
+<p align="center">
+  <b>AI</b><br>
+  <img src="https://skillicons.dev/icons?i=pytorch&perline=1" alt="ai"/> &nbsp;<img src="https://img.shields.io/badge/LangGraph-0284c7?style=for-the-badge" alt="langgraph"/>
+</p>
+
+<p align="center">
+  <b>Workflow and distribution</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github&perline=2" alt="workflow"/> &nbsp;<img src="https://img.shields.io/badge/PyPI-0ea5e9?style=for-the-badge&logo=pypi&logoColor=white" alt="pypi"/>
 </p>
 
 <details>
@@ -72,6 +66,18 @@ No team to hand off to. Architecture, API, UI, and deployment were all mine.
 
 | Layer | Tools | Used for |
 |---|---|---|
+| Languages | Python, TypeScript, C++ | Services and SDKs, web apps, systems-level practice |
+| Backend | FastAPI, Node.js | APIs and server logic |
+| Frontend | React | Web interfaces |
+| Data | PostgreSQL, Redis | Persistent storage, caching |
+| Infra | Docker, Linux, AWS | Packaging, environments, deployment |
+| Deployment | Vercel | Hosting frontends and portfolio |
+| AI | PyTorch, LangGraph | Model work, agent workflows |
+| Workflow | Git, GitHub, PyPI | Version control, open source, publishing the SDK |
+
+</details>
+
+---|---|---|
 | Languages | Python, TypeScript, C++ | Services and SDKs, web apps, systems-level practice |
 | Backend | FastAPI, Node.js | APIs and server logic |
 | Data | PostgreSQL, Redis | Persistent storage, caching |
@@ -117,5 +123,11 @@ No team to hand off to. Architecture, API, UI, and deployment were all mine.
 
 ---
 
+## Find me
+
+<p align="center">
+  <a href="https://nithya-s-portfolio.vercel.app">Portfolio</a> ·
+  <a href="https://github.com/Nithyacoorg2005">GitHub</a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a6e,50:0284c7,100:7dd3fc&height=110&section=footer&reversal=true" width="100%" alt="footer"/>
