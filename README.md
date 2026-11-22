@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,45:38bdf8,75:0284c7,100:0c4a6e&height=230&section=header&text=Nithyashree%20CS&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=backend%20%C2%B7%20systems%20%C2%B7%20developer%20tooling&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="assets/banner.svg" width="100%" alt="Nithyashree CS"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=500&size=19&pause=1200&color=0284C7&center=true&vCenter=true&width=700&lines=Backend+engineer+focused+on+systems+and+developer+tooling;Cut+API+latency+by+40%25+at+BettadaJeeva;Founder+of+Ledgrr%3A+121+tests%2C+100%25+coverage;HawkHacks+2025+winner+%7C+LeetCode+top+10%25+globally" alt="typing"/>
@@ -13,7 +13,7 @@
 
 ---
 
-## At the surface: who I am
+<img src="assets/h-surface.svg" alt="At the surface: who I am"/>
 
 ```yaml
 name:        Nithyashree CS
@@ -27,7 +27,7 @@ status:      seeking backend or full-stack SWE internships
 
 ---
 
-## Experience
+<img src="assets/h-experience.svg" alt="Experience"/>
 
 **Software Engineering Intern (Full-Stack) at BettadaJeeva** · Jan 2026 to Jul 2026 · Bengaluru
 
@@ -38,7 +38,7 @@ status:      seeking backend or full-stack SWE internships
 
 ---
 
-## Projects
+<img src="assets/h-projects.svg" alt="Projects"/>
 
 <table>
 <tr>
@@ -93,53 +93,16 @@ Configurable epsilon-DP budgets with DP-SGD. Reduced membership inference attack
 
 ---
 
-## Toolkit
+<img src="assets/h-toolkit.svg" alt="Toolkit"/>
 
 <p align="center">
-  <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=py,cpp,ts,js&perline=4" alt="languages"/> &nbsp;<img src="https://img.shields.io/badge/SQL-0284c7?style=for-the-badge" alt="sql"/>
-</p>
-
-<p align="center">
-  <b>Backend and APIs</b><br>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs&perline=2" alt="backend"/><br>
-  <img src="https://img.shields.io/badge/REST%20APIs-0ea5e9?style=for-the-badge" alt="rest"/>
-  <img src="https://img.shields.io/badge/WebSockets-0ea5e9?style=for-the-badge" alt="websockets"/>
-  <img src="https://img.shields.io/badge/OAuth%202.0-0ea5e9?style=for-the-badge" alt="oauth"/>
-  <img src="https://img.shields.io/badge/Microservices-0ea5e9?style=for-the-badge" alt="microservices"/>
-  <img src="https://img.shields.io/badge/Async%20Processing-0ea5e9?style=for-the-badge" alt="async"/>
-</p>
-
-<p align="center">
-  <b>Databases</b><br>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,supabase,sqlite&perline=4" alt="databases"/>
-</p>
-
-<p align="center">
-  <b>Cloud and DevOps</b><br>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,cloudflare,vercel,linux&perline=6" alt="devops"/><br>
-  <img src="https://img.shields.io/badge/AWS-EC2%20%7C%20S3-38bdf8?style=for-the-badge" alt="aws"/>
-  <img src="https://img.shields.io/badge/Cloudflare-R2-38bdf8?style=for-the-badge" alt="r2"/>
-  <img src="https://img.shields.io/badge/Hostinger-38bdf8?style=for-the-badge" alt="hostinger"/>
-</p>
-
-<p align="center">
-  <b>AI and ML</b><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,pandas&perline=2" alt="ml"/><br>
-  <img src="https://img.shields.io/badge/scikit--learn-0c4a6e?style=for-the-badge" alt="sklearn"/>
-  <img src="https://img.shields.io/badge/LangChain-0c4a6e?style=for-the-badge" alt="langchain"/>
-  <img src="https://img.shields.io/badge/LangGraph-0c4a6e?style=for-the-badge" alt="langgraph"/>
-  <img src="https://img.shields.io/badge/Differential%20Privacy-0c4a6e?style=for-the-badge" alt="dp"/>
-</p>
-
-<p align="center">
-  <b>Build and workflow</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,cmake&perline=3" alt="workflow"/> &nbsp;<img src="https://img.shields.io/badge/PyPI-0ea5e9?style=for-the-badge&logo=pypi&logoColor=white" alt="pypi"/>
+  <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,fastapi,nodejs,postgres,redis,supabase,sqlite,docker,githubactions,aws,cloudflare,vercel,linux,pytorch,pandas,git,github,cmake&perline=11" alt="toolkit"/><br>
+  <img src="https://img.shields.io/badge/Python-0284c7?style=flat-square" alt="Python"/> <img src="https://img.shields.io/badge/C++-0284c7?style=flat-square" alt="C++"/> <img src="https://img.shields.io/badge/TypeScript-0284c7?style=flat-square" alt="TypeScript"/> <img src="https://img.shields.io/badge/JavaScript-0284c7?style=flat-square" alt="JavaScript"/> <img src="https://img.shields.io/badge/SQL-0284c7?style=flat-square" alt="SQL"/> <img src="https://img.shields.io/badge/REST%20APIs-0284c7?style=flat-square" alt="REST APIs"/> <img src="https://img.shields.io/badge/WebSockets-0284c7?style=flat-square" alt="WebSockets"/> <img src="https://img.shields.io/badge/OAuth%202.0-0284c7?style=flat-square" alt="OAuth 2.0"/> <img src="https://img.shields.io/badge/Microservices-0284c7?style=flat-square" alt="Microservices"/> <img src="https://img.shields.io/badge/Async%20Processing-0284c7?style=flat-square" alt="Async Processing"/> <img src="https://img.shields.io/badge/AWS%20EC2-0284c7?style=flat-square" alt="AWS EC2"/> <img src="https://img.shields.io/badge/AWS%20S3-0284c7?style=flat-square" alt="AWS S3"/> <img src="https://img.shields.io/badge/Cloudflare%20R2-0284c7?style=flat-square" alt="Cloudflare R2"/> <img src="https://img.shields.io/badge/Hostinger-0284c7?style=flat-square" alt="Hostinger"/> <img src="https://img.shields.io/badge/scikit--learn-0284c7?style=flat-square" alt="scikit-learn"/> <img src="https://img.shields.io/badge/LangChain-0284c7?style=flat-square" alt="LangChain"/> <img src="https://img.shields.io/badge/LangGraph-0284c7?style=flat-square" alt="LangGraph"/> <img src="https://img.shields.io/badge/DP--SGD-0284c7?style=flat-square" alt="DP-SGD"/> <img src="https://img.shields.io/badge/PyPI-0284c7?style=flat-square" alt="PyPI"/>
 </p>
 
 ---
 
-## Achievements
+<img src="assets/h-achievements.svg" alt="Achievements"/>
 
 | | |
 |---|---|
@@ -152,7 +115,7 @@ Configurable epsilon-DP budgets with DP-SGD. Reduced membership inference attack
 
 ---
 
-## Going deeper
+<img src="assets/h-deeper.svg" alt="Going deeper"/>
 
 ```text
 [studying]  database internals       storage engines, indexing, query planning
@@ -163,7 +126,7 @@ Configurable epsilon-DP budgets with DP-SGD. Reduced membership inference attack
 
 ---
 
-## How I build
+<img src="assets/h-build.svg" alt="How I build"/>
 
 | Principle | Where it shows up |
 |---|---|
@@ -174,7 +137,7 @@ Configurable epsilon-DP budgets with DP-SGD. Reduced membership inference attack
 
 ---
 
-## Activity
+<img src="assets/h-activity.svg" alt="Activity"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nithyacoorg2005&show_icons=true&hide_border=true&count_private=true&title_color=0284c7&icon_color=38bdf8&text_color=0c4a6e&bg_color=f0f9ff" height="165" alt="stats"/>
@@ -187,7 +150,7 @@ Configurable epsilon-DP budgets with DP-SGD. Reduced membership inference attack
 
 ---
 
-## Find me
+<img src="assets/h-find.svg" alt="Find me"/>
 
 <p align="center">
   <a href="https://nithya-s-portfolio.vercel.app">Portfolio</a> ·
