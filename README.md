@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,45:38bdf8,75:0284c7,100:0c4a6e&height=230&section=header&text=Nithyashree%20CS&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=backend%20%C2%B7%20distributed%20systems%20%C2%B7%20fintech%20infra&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,45:38bdf8,75:0284c7,100:0c4a6e&height=230&section=header&text=Nithyashree%20CS&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=backend%20%C2%B7%20systems%20%C2%B7%20developer%20tooling&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=0284C7&center=true&vCenter=true&width=640&lines=Building+what+sits+beneath+the+surface;Founder+of+Ledgrr+%E2%80%94+open-source+Python+SDK;Shipped+a+full+backend+and+frontend+solo;Currently+diving+into+database+internals" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=500&size=19&pause=1200&color=0284C7&center=true&vCenter=true&width=700&lines=Backend+engineer+focused+on+systems+and+developer+tooling;Cut+API+latency+by+40%25+at+BettadaJeeva;Founder+of+Ledgrr%3A+121+tests%2C+100%25+coverage;HawkHacks+2025+winner+%7C+LeetCode+top+10%25+globally" alt="typing"/>
 </p>
 
 <p align="center">
   <a href="https://nithya-s-portfolio.vercel.app"><img src="https://img.shields.io/badge/portfolio-visit-0284c7?style=for-the-badge" alt="portfolio"/></a>
-  <a href="https://github.com/Nithyacoorg2005/Ledgrr"><img src="https://img.shields.io/badge/Ledgrr-open%20source-0ea5e9?style=for-the-badge" alt="ledgrr"/></a>
+  <a href="https://github.com/Nithyacoorg2005/Ledgrr"><img src="https://img.shields.io/badge/Ledgrr-on%20PyPI-0ea5e9?style=for-the-badge" alt="ledgrr"/></a>
   <img src="https://img.shields.io/badge/Bengaluru-India-38bdf8?style=for-the-badge" alt="location"/>
   <img src="https://img.shields.io/badge/graduating-2027-0c4a6e?style=for-the-badge" alt="grad"/>
 </p>
@@ -17,74 +17,138 @@
 
 ```yaml
 name:        Nithyashree CS
-role:        CS undergrad, backend engineer
-college:     Atria Institute of Technology, Bengaluru
-graduating:  2027
-focus:       [distributed systems, fintech infrastructure, open source]
-founder_of:  Ledgrr
-shipped:     Python SDK on PyPI, full-stack product solo (internship)
-principles:  [fast, deterministic, observable, hard to break]
-status:      open to backend / infra roles and open-source work
+education:   B.E. Computer Science, Atria Institute of Technology (2027)
+focus:       [backend engineering, systems programming, developer tooling]
+founder_of:  Ledgrr (open-source Python SDK, published on PyPI)
+experience:  Software Engineering Intern (Full-Stack), BettadaJeeva, Jan-Jul 2026
+wins:        [HawkHacks 2025, Changators-Ideate, Hack Days Krishnagiri]
+status:      seeking backend or full-stack SWE internships
 ```
 
+---
+
+## Experience
+
+**Software Engineering Intern (Full-Stack) at BettadaJeeva** · Jan 2026 to Jul 2026 · Bengaluru
+
+- Owned design and delivery of REST APIs with Google OAuth 2.0 for booking and session management, scaling to 100+ concurrent users
+- Cut average API latency by **40%** through PostgreSQL schema redesign, query plan analysis, and index optimisation
+- Integrated Instagram API, WhatsApp Business API (automated booking confirmations), and SignNow (in-app e-signing) to reduce manual operations
+- Owned infrastructure: Supabase (PostgreSQL), Cloudflare R2 for media, and GitHub Actions CI/CD to Vercel and Hostinger
+
+---
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Ledgrr
+**Open-source Python SDK for AI billing across OpenAI, Anthropic, Gemini, and Groq.**
+
+Token usage accounting, GST-compliant invoicing, and IRP e-invoice submission with exponential backoff retries. Zero-config auto-instrumentation via monkey-patching. Live terminal cost sidebar with real-time INR conversion.
+
+**121 tests, 100% coverage, full CI.**
+
+`Python` `FastAPI` `PostgreSQL` `Redis` `pytest`
+
+[Repository →](https://github.com/Nithyacoorg2005/Ledgrr)
+
+</td>
+<td width="50%" valign="top">
+
+### Nexus
+**Daemon-managed Windows terminal runtime in C++.**
+
+Persistent sessions you can create, attach, detach, and resume across client disconnects. Binary IPC protocol over Windows Named Pipes with bidirectional I/O streaming via ConPTY. Thread-safe with explicit HANDLE and IPC lifecycle ownership.
+
+`C++` `ConPTY` `Named Pipes` `CMake` `Ninja`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### SwiftLnk
+**High-throughput URL shortener.**
+
+Redis cache-aside layer, sub-2ms P99 redirect latency at 80% cache hit rate under load. Collision-free Base62 IDs via PostgreSQL optimistic locking, with rate limiting and structured request tracing.
+
+`FastAPI` `Redis` `PostgreSQL` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### SynForge
+**Differentially private GAN for synthetic tabular data.**
+
+Configurable epsilon-DP budgets with DP-SGD. Reduced membership inference attack success rates while keeping 77%+ downstream ML utility versus the real-data baseline.
+
+`PyTorch` `FastAPI` `DP-SGD`
+
+</td>
+</tr>
+</table>
+
+---
 
 ## Toolkit
 
 <p align="center">
   <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=py,ts,cpp&perline=3" alt="languages"/>
+  <img src="https://skillicons.dev/icons?i=py,cpp,ts,js&perline=4" alt="languages"/> &nbsp;<img src="https://img.shields.io/badge/SQL-0284c7?style=for-the-badge" alt="sql"/>
 </p>
 
 <p align="center">
-  <b>Backend and frontend</b><br>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react&perline=3" alt="backend"/>
+  <b>Backend and APIs</b><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs&perline=2" alt="backend"/><br>
+  <img src="https://img.shields.io/badge/REST%20APIs-0ea5e9?style=for-the-badge" alt="rest"/>
+  <img src="https://img.shields.io/badge/WebSockets-0ea5e9?style=for-the-badge" alt="websockets"/>
+  <img src="https://img.shields.io/badge/OAuth%202.0-0ea5e9?style=for-the-badge" alt="oauth"/>
+  <img src="https://img.shields.io/badge/Microservices-0ea5e9?style=for-the-badge" alt="microservices"/>
+  <img src="https://img.shields.io/badge/Async%20Processing-0ea5e9?style=for-the-badge" alt="async"/>
 </p>
 
 <p align="center">
-  <b>Data</b><br>
-  <img src="https://skillicons.dev/icons?i=postgres,redis&perline=2" alt="data"/>
+  <b>Databases</b><br>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,supabase,sqlite&perline=4" alt="databases"/>
 </p>
 
 <p align="center">
-  <b>Infra and deployment</b><br>
-  <img src="https://skillicons.dev/icons?i=docker,linux,aws,vercel&perline=4" alt="infra"/>
+  <b>Cloud and DevOps</b><br>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,cloudflare,vercel,linux&perline=6" alt="devops"/><br>
+  <img src="https://img.shields.io/badge/AWS-EC2%20%7C%20S3-38bdf8?style=for-the-badge" alt="aws"/>
+  <img src="https://img.shields.io/badge/Cloudflare-R2-38bdf8?style=for-the-badge" alt="r2"/>
+  <img src="https://img.shields.io/badge/Hostinger-38bdf8?style=for-the-badge" alt="hostinger"/>
 </p>
 
 <p align="center">
-  <b>AI</b><br>
-  <img src="https://skillicons.dev/icons?i=pytorch&perline=1" alt="ai"/> &nbsp;<img src="https://img.shields.io/badge/LangGraph-0284c7?style=for-the-badge" alt="langgraph"/>
+  <b>AI and ML</b><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,pandas&perline=2" alt="ml"/><br>
+  <img src="https://img.shields.io/badge/scikit--learn-0c4a6e?style=for-the-badge" alt="sklearn"/>
+  <img src="https://img.shields.io/badge/LangChain-0c4a6e?style=for-the-badge" alt="langchain"/>
+  <img src="https://img.shields.io/badge/LangGraph-0c4a6e?style=for-the-badge" alt="langgraph"/>
+  <img src="https://img.shields.io/badge/Differential%20Privacy-0c4a6e?style=for-the-badge" alt="dp"/>
 </p>
 
 <p align="center">
-  <b>Workflow and distribution</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github&perline=2" alt="workflow"/> &nbsp;<img src="https://img.shields.io/badge/PyPI-0ea5e9?style=for-the-badge&logo=pypi&logoColor=white" alt="pypi"/>
+  <b>Build and workflow</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,cmake&perline=3" alt="workflow"/> &nbsp;<img src="https://img.shields.io/badge/PyPI-0ea5e9?style=for-the-badge&logo=pypi&logoColor=white" alt="pypi"/>
 </p>
 
-<details>
-<summary><b>How I actually use each one</b></summary>
-<br>
+---
 
-| Layer | Tools | Used for |
-|---|---|---|
-| Languages | Python, TypeScript, C++ | Services and SDKs, web apps, systems-level practice |
-| Backend | FastAPI, Node.js | APIs and server logic |
-| Frontend | React | Web interfaces |
-| Data | PostgreSQL, Redis | Persistent storage, caching |
-| Infra | Docker, Linux, AWS | Packaging, environments, deployment |
-| Deployment | Vercel | Hosting frontends and portfolio |
-| AI | PyTorch, LangGraph | Model work, agent workflows |
-| Workflow | Git, GitHub, PyPI | Version control, open source, publishing the SDK |
+## Achievements
 
-</details>
+| | |
+|---|---|
+| **Hackathons** | HawkHacks 2025 winner (Harper College, international), Changators-Ideate winner, Hack Days Krishnagiri winner |
+| **Case competition** | 3rd place, IIM Bodh Gaya: backend infrastructure proposal presented to a senior industry panel |
+| **Competitive programming** | LeetCode rating 1745, top 10% globally, 400+ problems solved |
+| **Open source** | Ledgrr on PyPI, documented public API, open to contributions |
 
----|---|---|
-| Languages | Python, TypeScript, C++ | Services and SDKs, web apps, systems-level practice |
-| Backend | FastAPI, Node.js | APIs and server logic |
-| Data | PostgreSQL, Redis | Persistent storage, caching |
-| Infra | Docker, Linux, AWS | Packaging, environments, deployment |
-| AI | PyTorch, LangGraph | Model work, agent workflows |
-
-</details>
+**Certifications:** Oracle Cloud Infrastructure 2024 Foundations Associate (2025) · GitHub Actions Certified (2025) · Supervised Machine Learning, Stanford and DeepLearning.AI (2024)
 
 ---
 
@@ -101,12 +165,12 @@ status:      open to backend / infra roles and open-source work
 
 ## How I build
 
-| Principle | What it means in practice |
+| Principle | Where it shows up |
 |---|---|
-| **Fast** | Measure latency first, optimise what the numbers point at |
-| **Deterministic** | Same input, same output, and failures reproduce on demand |
-| **Observable** | If I can't trace it, I don't trust it |
-| **Hard to break** | Design for the failure case before the happy path |
+| **Fast** | 40% API latency cut via query plan analysis and indexing; sub-2ms P99 redirects in SwiftLnk |
+| **Deterministic** | Reproducible CMake and Ninja builds in Nexus; 121 tests with 100% coverage in Ledgrr |
+| **Observable** | Structured request tracing in SwiftLnk; CI pipelines on every project |
+| **Hard to break** | Fault-tolerant event processing with recovery guarantees in Ledgrr; retry with exponential backoff |
 
 ---
 
